@@ -1,0 +1,11 @@
+IDPaciente,Nombre,Apellido,FechaNacimiento,Patologia Cronica,Fallecimiento,FechaActualización
+1,Hugo,Ugarte,01/01/2001,Artritis,SI,08/03/2023
+2,Mimi,Sandoval,02/02/2002,Asma,NO,08/03/2023
+3,Pablo,Castro,03/03/2003,Cancer,SI,08/03/2023
+4,Luna,Figueroa,04/04/2004,Diabetes,NO,08/03/2023
+5,Luis,Silva,05/05/2005,Artritis,SI,08/03/2023
+6,Pedro,Santander,06/06/2006,Asma,NO,08/03/2023
+7,Juan,Muñoz,07/07/2007,Cancer,SI,08/03/2023
+8,Martha,Peña,08/08/2008,Diabetes,NO,08/03/2023
+9,Antonio,Velasquez,09/09/2009,Artritis,SI,08/03/2023
+10,Ana,Navarro,10/10/2010,Asma,NO,08/03/2023
